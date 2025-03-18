@@ -1,6 +1,5 @@
 # PillSync
 
-# flutter-2025-proj
 ## Project Description
 PillSync is a mobile application designed to help users manage their prescribed medications effectively. Professionals can input medicine descriptions and dosage schedules, while users can add prescribed medicines to their personal list and customize their intake times.
 
